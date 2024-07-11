@@ -14,7 +14,7 @@ Sono una giovane appassionata di tecnologia con una forte determinazione nel cre
 - TypeScript 📝
 - JavaScript DOM :dart:
 - React.js ⚛️
-- Al momento sto studiando Node.js 🚀
+- Node.js 🚀
 
 Sono sempre alla ricerca di nuove sfide e opportunità per imparare e crescere. Sono particolarmente interessata allo sviluppo frontend e al design di esperienze utente intuitive, efficaci e accattivanti.
 
